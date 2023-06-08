@@ -1,3 +1,6 @@
+"scripts": {
+  "test": "jest"
+}
 {
   "name": "newsletter-signup",
   "version": "1.0.0",
